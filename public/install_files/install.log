@@ -1,0 +1,655 @@
+"========================== INSTALLATION LOG SECTION ========================"
+[2023/06/03 12:53:22] Host: Linux ip-172-31-9-23 5.19.0-1026-aws #27~22.04.1-Ubuntu SMP Mon May 22 15:57:16 UTC 2023 x86_64
+[2023/06/03 12:53:22] PHP version: 8.1.2-1ubuntu2.11
+[2023/06/03 12:53:22] Server software: PHP 8.1.2-1ubuntu2.11 Development Server
+[2023/06/03 12:53:22] Operating system: Linux
+[2023/06/03 12:53:22] Memory limit: -1
+[2023/06/03 12:53:22] Max execution time: 3600
+"========================== INSTALLATION LOG SECTION ========================"
+[2023/06/03 12:53:24] Host: Linux ip-172-31-9-23 5.19.0-1026-aws #27~22.04.1-Ubuntu SMP Mon May 22 15:57:16 UTC 2023 x86_64
+[2023/06/03 12:53:24] PHP version: 8.1.2-1ubuntu2.11
+[2023/06/03 12:53:24] Server software: PHP 8.1.2-1ubuntu2.11 Development Server
+[2023/06/03 12:53:24] Operating system: Linux
+[2023/06/03 12:53:24] Memory limit: -1
+[2023/06/03 12:53:24] Max execution time: 3600
+"========================== INSTALLATION LOG SECTION ========================"
+[2023/06/03 12:53:27] Host: Linux ip-172-31-9-23 5.19.0-1026-aws #27~22.04.1-Ubuntu SMP Mon May 22 15:57:16 UTC 2023 x86_64
+[2023/06/03 12:53:27] PHP version: 8.1.2-1ubuntu2.11
+[2023/06/03 12:53:27] Server software: PHP 8.1.2-1ubuntu2.11 Development Server
+[2023/06/03 12:53:27] Operating system: Linux
+[2023/06/03 12:53:27] Memory limit: -1
+[2023/06/03 12:53:27] Max execution time: 3600
+"========================== INSTALLATION LOG SECTION ========================"
+[2023/06/03 12:53:27] Host: Linux ip-172-31-9-23 5.19.0-1026-aws #27~22.04.1-Ubuntu SMP Mon May 22 15:57:16 UTC 2023 x86_64
+[2023/06/03 12:53:27] PHP version: 8.1.2-1ubuntu2.11
+[2023/06/03 12:53:27] Server software: PHP 8.1.2-1ubuntu2.11 Development Server
+[2023/06/03 12:53:27] Operating system: Linux
+[2023/06/03 12:53:27] Memory limit: -1
+[2023/06/03 12:53:27] Max execution time: 3600
+.============================ POST REQUEST ==========================.
+[2023/06/03 12:53:28] Postback payload: Array
+(
+    [handler] => onCheckRequirements
+)
+
+[2023/06/03 12:53:28] Check requirements: start
+[2023/06/03 12:53:28] Check requirements: end
+[2023/06/03 12:53:28] Execute handler (onCheckRequirements): Array
+(
+    [PHP Version] => Array
+        (
+            [result] => 1
+            [errorMessage] => You need at least 7.3 PHP Version to install.
+        )
+
+    [PDO] => Array
+        (
+            [result] => 1
+            [errorMessage] => PHP PDO extension is required.
+        )
+
+    [XML] => Array
+        (
+            [result] => 1
+            [errorMessage] => PHP XML extension is required.
+        )
+
+    [Mbstring] => Array
+        (
+            [result] => 1
+            [errorMessage] => PHP mbstring extension is required.
+        )
+
+    [Fileinfo] => Array
+        (
+            [result] => 1
+            [errorMessage] => PHP fileinfo extension is required.
+        )
+
+    [OpenSSL] => Array
+        (
+            [result] => 1
+            [errorMessage] => PHP openssl extension is required.
+        )
+
+    [GD] => Array
+        (
+            [result] => 1
+            [errorMessage] => PHP GD extension is required.
+        )
+
+    [fpassthru] => Array
+        (
+            [result] => 1
+            [errorMessage] => "fpassthru" PHP function needs to be enabled.
+        )
+
+    [Curl] => Array
+        (
+            [result] => 1
+            [errorMessage] => PHP curl functionality needs to be enabled.
+        )
+
+    [Zip] => Array
+        (
+            [result] => 
+            [errorMessage] => PHP ZipArchive extension needs to be installed.
+        )
+
+)
+
+"========================== INSTALLATION LOG SECTION ========================"
+[2023/06/03 12:54:21] Host: Linux ip-172-31-9-23 5.19.0-1026-aws #27~22.04.1-Ubuntu SMP Mon May 22 15:57:16 UTC 2023 x86_64
+[2023/06/03 12:54:21] PHP version: 8.1.2-1ubuntu2.11
+[2023/06/03 12:54:21] Server software: PHP 8.1.2-1ubuntu2.11 Development Server
+[2023/06/03 12:54:21] Operating system: Linux
+[2023/06/03 12:54:21] Memory limit: -1
+[2023/06/03 12:54:21] Max execution time: 3600
+"========================== INSTALLATION LOG SECTION ========================"
+[2023/06/03 12:54:23] Host: Linux ip-172-31-9-23 5.19.0-1026-aws #27~22.04.1-Ubuntu SMP Mon May 22 15:57:16 UTC 2023 x86_64
+[2023/06/03 12:54:23] PHP version: 8.1.2-1ubuntu2.11
+[2023/06/03 12:54:23] Server software: PHP 8.1.2-1ubuntu2.11 Development Server
+[2023/06/03 12:54:23] Operating system: Linux
+[2023/06/03 12:54:23] Memory limit: -1
+[2023/06/03 12:54:23] Max execution time: 3600
+"========================== INSTALLATION LOG SECTION ========================"
+[2023/06/03 12:54:28] Host: Linux ip-172-31-9-23 5.19.0-1026-aws #27~22.04.1-Ubuntu SMP Mon May 22 15:57:16 UTC 2023 x86_64
+[2023/06/03 12:54:28] PHP version: 8.1.2-1ubuntu2.11
+[2023/06/03 12:54:28] Server software: PHP 8.1.2-1ubuntu2.11 Development Server
+[2023/06/03 12:54:28] Operating system: Linux
+[2023/06/03 12:54:28] Memory limit: -1
+[2023/06/03 12:54:28] Max execution time: 3600
+"========================== INSTALLATION LOG SECTION ========================"
+[2023/06/03 12:54:28] Host: Linux ip-172-31-9-23 5.19.0-1026-aws #27~22.04.1-Ubuntu SMP Mon May 22 15:57:16 UTC 2023 x86_64
+[2023/06/03 12:54:28] PHP version: 8.1.2-1ubuntu2.11
+[2023/06/03 12:54:28] Server software: PHP 8.1.2-1ubuntu2.11 Development Server
+[2023/06/03 12:54:28] Operating system: Linux
+[2023/06/03 12:54:28] Memory limit: -1
+[2023/06/03 12:54:28] Max execution time: 3600
+.============================ POST REQUEST ==========================.
+[2023/06/03 12:54:31] Postback payload: Array
+(
+    [handler] => onCheckRequirements
+)
+
+[2023/06/03 12:54:31] Check requirements: start
+[2023/06/03 12:54:31] Check requirements: end
+[2023/06/03 12:54:31] Execute handler (onCheckRequirements): Array
+(
+    [PHP Version] => Array
+        (
+            [result] => 1
+            [errorMessage] => You need at least 7.3 PHP Version to install.
+        )
+
+    [PDO] => Array
+        (
+            [result] => 1
+            [errorMessage] => PHP PDO extension is required.
+        )
+
+    [XML] => Array
+        (
+            [result] => 1
+            [errorMessage] => PHP XML extension is required.
+        )
+
+    [Mbstring] => Array
+        (
+            [result] => 1
+            [errorMessage] => PHP mbstring extension is required.
+        )
+
+    [Fileinfo] => Array
+        (
+            [result] => 1
+            [errorMessage] => PHP fileinfo extension is required.
+        )
+
+    [OpenSSL] => Array
+        (
+            [result] => 1
+            [errorMessage] => PHP openssl extension is required.
+        )
+
+    [GD] => Array
+        (
+            [result] => 1
+            [errorMessage] => PHP GD extension is required.
+        )
+
+    [fpassthru] => Array
+        (
+            [result] => 1
+            [errorMessage] => "fpassthru" PHP function needs to be enabled.
+        )
+
+    [Curl] => Array
+        (
+            [result] => 1
+            [errorMessage] => PHP curl functionality needs to be enabled.
+        )
+
+    [Zip] => Array
+        (
+            [result] => 
+            [errorMessage] => PHP ZipArchive extension needs to be installed.
+        )
+
+)
+
+"========================== INSTALLATION LOG SECTION ========================"
+[2023/06/03 12:54:36] Host: Linux ip-172-31-9-23 5.19.0-1026-aws #27~22.04.1-Ubuntu SMP Mon May 22 15:57:16 UTC 2023 x86_64
+[2023/06/03 12:54:36] PHP version: 8.1.2-1ubuntu2.11
+[2023/06/03 12:54:36] Server software: PHP 8.1.2-1ubuntu2.11 Development Server
+[2023/06/03 12:54:36] Operating system: Linux
+[2023/06/03 12:54:36] Memory limit: -1
+[2023/06/03 12:54:36] Max execution time: 3600
+"========================== INSTALLATION LOG SECTION ========================"
+[2023/06/03 12:54:39] Host: Linux ip-172-31-9-23 5.19.0-1026-aws #27~22.04.1-Ubuntu SMP Mon May 22 15:57:16 UTC 2023 x86_64
+[2023/06/03 12:54:39] PHP version: 8.1.2-1ubuntu2.11
+[2023/06/03 12:54:39] Server software: PHP 8.1.2-1ubuntu2.11 Development Server
+[2023/06/03 12:54:39] Operating system: Linux
+[2023/06/03 12:54:39] Memory limit: -1
+[2023/06/03 12:54:39] Max execution time: 3600
+"========================== INSTALLATION LOG SECTION ========================"
+[2023/06/03 12:54:41] Host: Linux ip-172-31-9-23 5.19.0-1026-aws #27~22.04.1-Ubuntu SMP Mon May 22 15:57:16 UTC 2023 x86_64
+[2023/06/03 12:54:41] PHP version: 8.1.2-1ubuntu2.11
+[2023/06/03 12:54:41] Server software: PHP 8.1.2-1ubuntu2.11 Development Server
+[2023/06/03 12:54:41] Operating system: Linux
+[2023/06/03 12:54:41] Memory limit: -1
+[2023/06/03 12:54:41] Max execution time: 3600
+"========================== INSTALLATION LOG SECTION ========================"
+[2023/06/03 12:54:42] Host: Linux ip-172-31-9-23 5.19.0-1026-aws #27~22.04.1-Ubuntu SMP Mon May 22 15:57:16 UTC 2023 x86_64
+[2023/06/03 12:54:42] PHP version: 8.1.2-1ubuntu2.11
+[2023/06/03 12:54:42] Server software: PHP 8.1.2-1ubuntu2.11 Development Server
+[2023/06/03 12:54:42] Operating system: Linux
+[2023/06/03 12:54:42] Memory limit: -1
+[2023/06/03 12:54:42] Max execution time: 3600
+"========================== INSTALLATION LOG SECTION ========================"
+[2023/06/03 12:54:52] Host: Linux ip-172-31-9-23 5.19.0-1026-aws #27~22.04.1-Ubuntu SMP Mon May 22 15:57:16 UTC 2023 x86_64
+[2023/06/03 12:54:52] PHP version: 8.1.2-1ubuntu2.11
+[2023/06/03 12:54:52] Server software: PHP 8.1.2-1ubuntu2.11 Development Server
+[2023/06/03 12:54:52] Operating system: Linux
+[2023/06/03 12:54:52] Memory limit: -1
+[2023/06/03 12:54:52] Max execution time: 3600
+"========================== INSTALLATION LOG SECTION ========================"
+[2023/06/03 12:54:55] Host: Linux ip-172-31-9-23 5.19.0-1026-aws #27~22.04.1-Ubuntu SMP Mon May 22 15:57:16 UTC 2023 x86_64
+[2023/06/03 12:54:55] PHP version: 8.1.2-1ubuntu2.11
+[2023/06/03 12:54:55] Server software: PHP 8.1.2-1ubuntu2.11 Development Server
+[2023/06/03 12:54:55] Operating system: Linux
+[2023/06/03 12:54:55] Memory limit: -1
+[2023/06/03 12:54:55] Max execution time: 3600
+"========================== INSTALLATION LOG SECTION ========================"
+[2023/06/03 12:54:58] Host: Linux ip-172-31-9-23 5.19.0-1026-aws #27~22.04.1-Ubuntu SMP Mon May 22 15:57:16 UTC 2023 x86_64
+[2023/06/03 12:54:58] PHP version: 8.1.2-1ubuntu2.11
+[2023/06/03 12:54:58] Server software: PHP 8.1.2-1ubuntu2.11 Development Server
+[2023/06/03 12:54:58] Operating system: Linux
+[2023/06/03 12:54:58] Memory limit: -1
+[2023/06/03 12:54:58] Max execution time: 3600
+"========================== INSTALLATION LOG SECTION ========================"
+[2023/06/03 12:54:58] Host: Linux ip-172-31-9-23 5.19.0-1026-aws #27~22.04.1-Ubuntu SMP Mon May 22 15:57:16 UTC 2023 x86_64
+[2023/06/03 12:54:58] PHP version: 8.1.2-1ubuntu2.11
+[2023/06/03 12:54:58] Server software: PHP 8.1.2-1ubuntu2.11 Development Server
+[2023/06/03 12:54:58] Operating system: Linux
+[2023/06/03 12:54:58] Memory limit: -1
+[2023/06/03 12:54:58] Max execution time: 3600
+.============================ POST REQUEST ==========================.
+[2023/06/03 12:54:59] Postback payload: Array
+(
+    [handler] => onCheckRequirements
+)
+
+[2023/06/03 12:54:59] Check requirements: start
+[2023/06/03 12:54:59] Check requirements: end
+[2023/06/03 12:54:59] Execute handler (onCheckRequirements): Array
+(
+    [PHP Version] => Array
+        (
+            [result] => 1
+            [errorMessage] => You need at least 7.3 PHP Version to install.
+        )
+
+    [PDO] => Array
+        (
+            [result] => 1
+            [errorMessage] => PHP PDO extension is required.
+        )
+
+    [XML] => Array
+        (
+            [result] => 1
+            [errorMessage] => PHP XML extension is required.
+        )
+
+    [Mbstring] => Array
+        (
+            [result] => 1
+            [errorMessage] => PHP mbstring extension is required.
+        )
+
+    [Fileinfo] => Array
+        (
+            [result] => 1
+            [errorMessage] => PHP fileinfo extension is required.
+        )
+
+    [OpenSSL] => Array
+        (
+            [result] => 1
+            [errorMessage] => PHP openssl extension is required.
+        )
+
+    [GD] => Array
+        (
+            [result] => 1
+            [errorMessage] => PHP GD extension is required.
+        )
+
+    [fpassthru] => Array
+        (
+            [result] => 1
+            [errorMessage] => "fpassthru" PHP function needs to be enabled.
+        )
+
+    [Curl] => Array
+        (
+            [result] => 1
+            [errorMessage] => PHP curl functionality needs to be enabled.
+        )
+
+    [Zip] => Array
+        (
+            [result] => 1
+            [errorMessage] => PHP ZipArchive extension needs to be installed.
+        )
+
+)
+
+.============================ POST REQUEST ==========================.
+[2023/06/03 12:55:00] Postback payload: Array
+(
+    [handler] => onCheckFileSystem
+)
+
+[2023/06/03 12:55:00] Check filesystem: start
+[2023/06/03 12:55:00] Check filesystem: end
+[2023/06/03 12:55:00] Execute handler (onCheckFileSystem): Array
+(
+    [0] => Array
+        (
+            [path] => /home/ubuntu/muse1
+            [result] => 1
+            [errorMessage] => 
+        )
+
+    [1] => Array
+        (
+            [path] => /home/ubuntu/muse1/storage
+            [result] => 1
+            [errorMessage] => 
+        )
+
+    [2] => Array
+        (
+            [path] => /home/ubuntu/muse1/storage/app
+            [result] => 1
+            [errorMessage] => 
+        )
+
+    [3] => Array
+        (
+            [path] => /home/ubuntu/muse1/storage/logs
+            [result] => 1
+            [errorMessage] => 
+        )
+
+    [4] => Array
+        (
+            [path] => /home/ubuntu/muse1/storage/framework
+            [result] => 1
+            [errorMessage] => 
+        )
+
+    [5] => Array
+        (
+            [path] => /home/ubuntu/muse1/public/storage
+            [result] => 1
+            [errorMessage] => 
+        )
+
+    [6] => Array
+        (
+            [path] => /home/ubuntu/muse1/.htaccess
+            [result] => 1
+            [errorMessage] => Make sure <strong>.htaccess</strong> file has been uploaded properly to your server and is writable.
+        )
+
+    [7] => Array
+        (
+            [path] => /home/ubuntu/muse1/public/.htaccess
+            [result] => 1
+            [errorMessage] => Make sure <strong>public/.htaccess</strong> file has been uploaded properly to your server and is writable.
+        )
+
+)
+
+.============================ POST REQUEST ==========================.
+[2023/06/03 12:55:17] Postback payload: Array
+(
+    [handler] => onValidateAndInsertDatabaseCredentials
+    [db_host] => localhost
+    [db_database] => muse
+    [db_username] => ubuntu
+    [db_password] => 1234
+    [db_prefix] => 
+)
+
+[2023/06/03 12:55:17] Handler error (onValidateAndInsertDatabaseCredentials): Connection failed: could not find driver
+[2023/06/03 12:55:17] Trace log:
+#0 /home/ubuntu/muse1/public/install_files/php/Installer.php(43): Installer->onValidateAndInsertDatabaseCredentials()
+#1 /home/ubuntu/muse1/public/install_files/php/boot.php(79): Installer->__construct()
+#2 /home/ubuntu/muse1/public/install_files/install.php(1): include('...')
+#3 /home/ubuntu/muse1/public/index.php(8): require_once('...')
+#4 /home/ubuntu/muse1/vendor/laravel/framework/src/Illuminate/Foundation/resources/server.php(16): require_once('...')
+#5 {main}
+.============================ POST REQUEST ==========================.
+[2023/06/03 12:56:34] Postback payload: Array
+(
+    [handler] => onValidateAndInsertDatabaseCredentials
+    [db_host] => localhost
+    [db_database] => muse
+    [db_username] => ubuntu
+    [db_password] => 1234
+    [db_prefix] => 
+)
+
+.============================ POST REQUEST ==========================.
+[2023/06/03 12:56:55] Postback payload: Array
+(
+    [handler] => onValidateAdminCredentials
+)
+
+.============================ POST REQUEST ==========================.
+[2023/06/03 12:57:00] Postback payload: Array
+(
+    [handler] => onInstallApplication
+    [username] => admin
+    [email] => robertmaddi8@gmail.com
+    [password] => 12345
+    [password_confirmation] => 12345
+)
+
+.============================ POST REQUEST ==========================.
+[2023/06/03 12:57:02] Postback payload: Array
+(
+    [handler] => onInstallApplication
+    [username] => admin
+    [email] => robertmaddi8@gmail.com
+    [password] => 12345
+    [password_confirmation] => 12345
+)
+
+.============================ POST REQUEST ==========================.
+[2023/06/03 12:57:05] Postback payload: Array
+(
+    [handler] => onInstallApplication
+    [username] => admin
+    [email] => robertmaddi8@gmail.com
+    [password] => 12345
+    [password_confirmation] => 12345
+)
+
+[2023/06/03 12:57:06] Handler error (onInstallApplication): SQLSTATE[42S01]: Base table or view already exists: 1050 Table 'albums' already exists (SQL: create table `albums` (`id` int unsigned not null auto_increment primary key, `name` varchar(191) not null, `release_date` varchar(191) null, `image` varchar(191) null, `spotify_popularity` tinyint null, `owner_id` bigint unsigned null, `fully_scraped` tinyint(1) not null default '0') default character set utf8mb4 collate 'utf8mb4_unicode_ci')
+[2023/06/03 12:57:06] Trace log:
+#0 /home/ubuntu/muse1/vendor/laravel/framework/src/Illuminate/Database/Connection.php(720): Illuminate\Database\Connection->runQueryCallback()
+#1 /home/ubuntu/muse1/vendor/laravel/framework/src/Illuminate/Database/Connection.php(546): Illuminate\Database\Connection->run()
+#2 /home/ubuntu/muse1/vendor/laravel/framework/src/Illuminate/Database/Schema/Blueprint.php(109): Illuminate\Database\Connection->statement()
+#3 /home/ubuntu/muse1/vendor/laravel/framework/src/Illuminate/Database/Schema/Builder.php(439): Illuminate\Database\Schema\Blueprint->build()
+#4 /home/ubuntu/muse1/vendor/laravel/framework/src/Illuminate/Database/Schema/Builder.php(285): Illuminate\Database\Schema\Builder->build()
+#5 /home/ubuntu/muse1/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(338): Illuminate\Database\Schema\Builder->create()
+#6 /home/ubuntu/muse1/database/migrations/2015_09_06_161342_create_albums_table.php(26): Illuminate\Support\Facades\Facade::__callStatic()
+#7 /home/ubuntu/muse1/vendor/laravel/framework/src/Illuminate/Database/Migrations/Migrator.php(488): CreateAlbumsTable->up()
+#8 /home/ubuntu/muse1/vendor/laravel/framework/src/Illuminate/Database/Migrations/Migrator.php(406): Illuminate\Database\Migrations\Migrator->runMethod()
+#9 /home/ubuntu/muse1/vendor/laravel/framework/src/Illuminate/Database/Migrations/Migrator.php(415): Illuminate\Database\Migrations\Migrator->Illuminate\Database\Migrations\{closure}()
+#10 /home/ubuntu/muse1/vendor/laravel/framework/src/Illuminate/Database/Migrations/Migrator.php(216): Illuminate\Database\Migrations\Migrator->runMigration()
+#11 /home/ubuntu/muse1/vendor/laravel/framework/src/Illuminate/Database/Migrations/Migrator.php(755): Illuminate\Database\Migrations\Migrator->Illuminate\Database\Migrations\{closure}()
+#12 /home/ubuntu/muse1/vendor/laravel/framework/src/Illuminate/Database/Migrations/Migrator.php(216): Illuminate\Database\Migrations\Migrator->write()
+#13 /home/ubuntu/muse1/vendor/laravel/framework/src/Illuminate/Database/Migrations/Migrator.php(181): Illuminate\Database\Migrations\Migrator->runUp()
+#14 /home/ubuntu/muse1/vendor/laravel/framework/src/Illuminate/Database/Migrations/Migrator.php(124): Illuminate\Database\Migrations\Migrator->runPending()
+#15 /home/ubuntu/muse1/common/Database/MigrateAndSeed.php(22): Illuminate\Database\Migrations\Migrator->run()
+#16 /home/ubuntu/muse1/public/install_files/php/Installer.php(355): Common\Database\MigrateAndSeed->execute()
+#17 /home/ubuntu/muse1/public/install_files/php/Installer.php(43): Installer->onInstallApplication()
+#18 /home/ubuntu/muse1/public/install_files/php/boot.php(79): Installer->__construct()
+#19 /home/ubuntu/muse1/public/install_files/install.php(1): include('...')
+#20 /home/ubuntu/muse1/public/index.php(8): require_once('...')
+#21 /home/ubuntu/muse1/vendor/laravel/framework/src/Illuminate/Foundation/resources/server.php(16): require_once('...')
+#22 {main}
+"========================== INSTALLATION LOG SECTION ========================"
+[2023/06/03 12:57:13] Host: Linux ip-172-31-9-23 5.19.0-1026-aws #27~22.04.1-Ubuntu SMP Mon May 22 15:57:16 UTC 2023 x86_64
+[2023/06/03 12:57:13] PHP version: 8.1.2-1ubuntu2.11
+[2023/06/03 12:57:13] Server software: PHP 8.1.2-1ubuntu2.11 Development Server
+[2023/06/03 12:57:13] Operating system: Linux
+[2023/06/03 12:57:13] Memory limit: -1
+[2023/06/03 12:57:13] Max execution time: 3600
+"========================== INSTALLATION LOG SECTION ========================"
+[2023/06/03 12:57:15] Host: Linux ip-172-31-9-23 5.19.0-1026-aws #27~22.04.1-Ubuntu SMP Mon May 22 15:57:16 UTC 2023 x86_64
+[2023/06/03 12:57:15] PHP version: 8.1.2-1ubuntu2.11
+[2023/06/03 12:57:15] Server software: PHP 8.1.2-1ubuntu2.11 Development Server
+[2023/06/03 12:57:15] Operating system: Linux
+[2023/06/03 12:57:15] Memory limit: -1
+[2023/06/03 12:57:15] Max execution time: 3600
+"========================== INSTALLATION LOG SECTION ========================"
+[2023/06/03 12:57:17] Host: Linux ip-172-31-9-23 5.19.0-1026-aws #27~22.04.1-Ubuntu SMP Mon May 22 15:57:16 UTC 2023 x86_64
+[2023/06/03 12:57:17] PHP version: 8.1.2-1ubuntu2.11
+[2023/06/03 12:57:17] Server software: PHP 8.1.2-1ubuntu2.11 Development Server
+[2023/06/03 12:57:17] Operating system: Linux
+[2023/06/03 12:57:17] Memory limit: -1
+[2023/06/03 12:57:17] Max execution time: 3600
+"========================== INSTALLATION LOG SECTION ========================"
+[2023/06/03 12:57:18] Host: Linux ip-172-31-9-23 5.19.0-1026-aws #27~22.04.1-Ubuntu SMP Mon May 22 15:57:16 UTC 2023 x86_64
+[2023/06/03 12:57:18] PHP version: 8.1.2-1ubuntu2.11
+[2023/06/03 12:57:18] Server software: PHP 8.1.2-1ubuntu2.11 Development Server
+[2023/06/03 12:57:18] Operating system: Linux
+[2023/06/03 12:57:18] Memory limit: -1
+[2023/06/03 12:57:18] Max execution time: 3600
+.============================ POST REQUEST ==========================.
+[2023/06/03 12:57:19] Postback payload: Array
+(
+    [handler] => onCheckRequirements
+)
+
+[2023/06/03 12:57:19] Check requirements: start
+[2023/06/03 12:57:19] Check requirements: end
+[2023/06/03 12:57:19] Execute handler (onCheckRequirements): Array
+(
+    [PHP Version] => Array
+        (
+            [result] => 1
+            [errorMessage] => You need at least 7.3 PHP Version to install.
+        )
+
+    [PDO] => Array
+        (
+            [result] => 1
+            [errorMessage] => PHP PDO extension is required.
+        )
+
+    [XML] => Array
+        (
+            [result] => 1
+            [errorMessage] => PHP XML extension is required.
+        )
+
+    [Mbstring] => Array
+        (
+            [result] => 1
+            [errorMessage] => PHP mbstring extension is required.
+        )
+
+    [Fileinfo] => Array
+        (
+            [result] => 1
+            [errorMessage] => PHP fileinfo extension is required.
+        )
+
+    [OpenSSL] => Array
+        (
+            [result] => 1
+            [errorMessage] => PHP openssl extension is required.
+        )
+
+    [GD] => Array
+        (
+            [result] => 1
+            [errorMessage] => PHP GD extension is required.
+        )
+
+    [fpassthru] => Array
+        (
+            [result] => 1
+            [errorMessage] => "fpassthru" PHP function needs to be enabled.
+        )
+
+    [Curl] => Array
+        (
+            [result] => 1
+            [errorMessage] => PHP curl functionality needs to be enabled.
+        )
+
+    [Zip] => Array
+        (
+            [result] => 1
+            [errorMessage] => PHP ZipArchive extension needs to be installed.
+        )
+
+)
+
+.============================ POST REQUEST ==========================.
+[2023/06/03 12:57:20] Postback payload: Array
+(
+    [handler] => onCheckFileSystem
+)
+
+[2023/06/03 12:57:20] Check filesystem: start
+[2023/06/03 12:57:20] Check filesystem: end
+[2023/06/03 12:57:20] Execute handler (onCheckFileSystem): Array
+(
+    [0] => Array
+        (
+            [path] => /home/ubuntu/muse1
+            [result] => 1
+            [errorMessage] => 
+        )
+
+    [1] => Array
+        (
+            [path] => /home/ubuntu/muse1/storage
+            [result] => 1
+            [errorMessage] => 
+        )
+
+    [2] => Array
+        (
+            [path] => /home/ubuntu/muse1/storage/app
+            [result] => 1
+            [errorMessage] => 
+        )
+
+    [3] => Array
+        (
+            [path] => /home/ubuntu/muse1/storage/logs
+            [result] => 1
+            [errorMessage] => 
+        )
+
+    [4] => Array
+        (
+            [path] => /home/ubuntu/muse1/storage/framework
+            [result] => 1
+            [errorMessage] => 
+        )
+
+    [5] => Array
+        (
+            [path] => /home/ubuntu/muse1/public/storage
+            [result] => 1
+            [errorMessage] => 
+        )
+
+    [6] => Array
+        (
+            [path] => /home/ubuntu/muse1/.htaccess
+            [result] => 1
+            [errorMessage] => Make sure <strong>.htaccess</strong> file has been uploaded properly to your server and is writable.
+        )
+
+    [7] => Array
+        (
+            [path] => /home/ubuntu/muse1/public/.htaccess
+            [result] => 1
+            [errorMessage] => Make sure <strong>public/.htaccess</strong> file has been uploaded properly to your server and is writable.
+        )
+
+)
+
