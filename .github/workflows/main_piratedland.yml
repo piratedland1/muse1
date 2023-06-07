@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'piratedland'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4DE4A886B00E4594B8B090C8BEDB7BA6 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CD37EBEC36924219A80DAD2D4E4CD170 }}
           package: .
